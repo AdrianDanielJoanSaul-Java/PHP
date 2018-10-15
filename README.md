@@ -1,5 +1,5 @@
 # PHP
-
+// En este repositorios se subiran archivos php
 [https://32087Joan.github.io/]: Curriculum Joan Lara
 
 [https://danigala15.github.io/]: Curriculum Dani Gala

@@ -8,4 +8,4 @@
 
 [https://adrianmartinviorreta.github.io/]: Curriculum Adrian Martín
 
-[https://https://SpicyTacos23.github.io/]: Curriculum Saul Solé
+[https://SpicyTacos23.github.io/]: Curriculum Saul Solé
